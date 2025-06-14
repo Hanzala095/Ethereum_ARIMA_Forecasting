@@ -1,4 +1,5 @@
 # Ethereum Price Forecasting using ARIMA 📈
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project applies ARIMA (AutoRegressive Integrated Moving Average) modeling to predict Ethereum (ETH/USD) prices. It was completed as part of my Machine Learning Internship at Arch Technologies.
 
